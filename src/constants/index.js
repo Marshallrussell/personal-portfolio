@@ -1028,6 +1028,24 @@ export const extraCurricular = [
   },
   {
     id: 6,
+    organisation: "Marshall Fitzpatricks, ACTOR-CMU",
+    title: "Exclusive Director / Actor",
+    duration: "Sep 2018 - Present",
+    content: [
+      {
+        text: "Organised the Hollywood Acts Intenting to Create",
+        link: "https://h007.weebly.com",
+      },
+      {
+        text: "Briefing of Citizen Enlisted Careers and Space Corps Install Idea",
+        link: "https://pe56d.s3.amazonaws.com/o_1imrdnd511gc21icb3b72c3lf9r.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=IcNwl9exnM3ROHws8yGh6nFDW1Y%3D&Expires=1743326289&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
+      },
+    ],
+//✅
+    logo: ecell,
+  },
+  {
+    id: 7,
     organisation: "MANUSCRIPT PUBLISHING / SONGWRITING, PAYHIP-CMU",
     title: "Executive AUTHOR",
     duration: "Sep 2018 - Present",
@@ -1048,24 +1066,7 @@ export const extraCurricular = [
 //✅
     logo: ecell,
   },
-  {
-    id: 7,
-    organisation: "Marshall Fitzpatricks, ACTOR-CMU",
-    title: "Exclusive Director / Actor",
-    duration: "Sep 2018 - Present",
-    content: [
-      {
-        text: "Organised the Hollywood Acts Intenting to Create",
-//        link: "https://h007.weebly.com",
-      },
-      {
-        text: "Briefing of Citizen Enlisted Careers",
-//        link: "https://pe56d.s3.amazonaws.com/o_1imrdnd511gc21icb3b72c3lf9r.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=IcNwl9exnM3ROHws8yGh6nFDW1Y%3D&Expires=1743326289&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
-      },
-    ],
-//✅
-    logo: ecell,
-  },
+
 ];
 
 // Links to your social media profiles
