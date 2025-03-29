@@ -89,10 +89,10 @@ import {
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
-export const resumeLink = "https://drive.google.com/file/d/1vkxyMDB5_KpMwt4QXFgT2aqdRizr8Czh/view?usp=sharing";
-export const repoLink = "https://github.com/mittal-parth/personal-portfolio";
+export const resumeLink = "https://h007.weebly.com/uploads/1/4/6/0/146046514/claremontresume.pdf";
+export const repoLink = "https://github.com/marshallrussell/personal-portfolio";
 
-export const callToAction = "https://www.linkedin.com/in/mittal-parth";
+export const callToAction = "https://www.linkedin.com/in/yesmarshall";
 
 export const navLinks = [
   {
@@ -129,20 +129,23 @@ export const navLinks = [
 export const educationList = [
   {
     id: "education-1",
+//✅
     icon: nitk,
-    title: "National Institute of Technology Karnataka, Surathkal",
+    title: "National Laboratory of Fermilab, Chicago",
     degree: "Bachelor of Technology",
-    duration: "December 2020 - May 2024",
-    content1: "Major: Electronics and Communication Engineering",
+    duration: "December 2022 - May 2027",
+    content1: "Major:  Industrial Mangement and Mechanical Engineering",
     content2: "Minor: Information Technology",
   },
   {
     id: "education-2",
+//✅
     icon: pba,
-    title: "Polkadot Blockchain Academy",
+    title: "Carnegie Tech Academy",
     degree: "",
-    duration: "May 2024 - June 2024",
-    content1: "Graduated with a distinction in the fifth cohort of the Polkadot Blockchain Academy at the National University of Singapore.",
+    duration: "May 2021 - June 2025",
+    content1: "Graduated with a distinction in top quintile at the University of Carnegie Mellon of Pennslyvania.",
+
   },
 ];
 
@@ -150,88 +153,96 @@ export const educationList = [
 export const achievements = [
   {
     id: "a-1",
+//✅
     icon: ethindia,
-    event: "ETHIndia'24 | India's Largest Ethereum Hackathon",
+    event: "Solar Vehicle Race | EPFL Solarathon",
     position: "Winner",
-    content1: "True Network's Winner, Polkadot's 1st Runner Up",
-    content2: "Lit Protocol's 2nd Runner Up",
-    content3: "Coinbase Pool Prize, Base Top 10",
-    article: "https://www.linkedin.com/posts/mittal-parth_super-stoked-to-announce-that-our-team-emerged-activity-7274735259621961729-tkq4?utm_source=share&utm_medium=member_desktop",
-    project: "https://devfolio.co/projects/khoj-3336",
-    youtube: "https://www.youtube.com/live/qJ4OCtnvjUY?si=VkcnHEdwJTEEDlMg&t=4718",
+    content1: "Design Division's Winner, Cross-Continent's 1st Runner Up",
+    content2: "Division 5K's 2nd Runner Up",
+    content3: "Lucid Motors Pool Prize, Top 5",
+    article: "https://lucidmotors.com/",
+    project: "https://www.epfl.ch/",
+    youtube: "https://www.youtube.com/@SolarCarChallenge/search",
   },
   {
     id: "a-2",
     icon: ethglobal,
-    event: "ETHIndia'22 | World's Largest Ethereum Hackathon",
+//✅
+    event: "ASME'25 | World's Lab on a Pill Hackathon",
     position: "Winner",
-    content1: "Top 12 winners among 20k+ registrations",
-    content2: "One of Polygon's Best Public Goods",
-    content3: "Best Module on Biconomy SDK",
-    article: "https://www.thehindu.com/news/cities/Mangalore/nitk-iiit-delhi-team-makes-it-to-top-12-winners-in-ethindia-22/article66238923.ece",
-    project: "https://devfolio.co/projects/chargeswap-3527",
-    youtube: "https://youtu.be/9rieTya8Yds?t=3908",
+    content1: "Top 12 winners among CMU registrations",
+    content2: "One of Club's Best Medical Device",
+    content3: "Best Module on Chip",
+    article: "https://www.asme.org/",
+    project: "https://www.cmu.edu/",
+    youtube: "https://www.youtube.com/watch?v=e1o8mDj-FYA",
   },
   {
     id: "a-3",
-    icon: polkadot,
-    event: "Polkadot Hackathon: Europe Edition",
-    position: "2nd Runner Up in the ink! Smart Contract Category",
-    content1: "Built GreenTrust offering a novel solution for obtaining certification in organic farming.",
-    content2: "",
+//✅
+    icon: ethindia,
+    event: "Engineering Business Competition: Europe Edition",
+    position: "2nd Runner Up Gestion d'Entreprisre Category at EPFL",
+    content1: "Built natural resources for sound and acousits offering a novel solution for organic construction.",
+    content2: "https://www.epfl.ch/",
     content3: "",
-    github: "https://github.com/pranav2305/GreenTrust",
+    github: "",
   },
   {
     id: "a-4",
-    icon: lightspeed,
-    event: "Warpspeed by Lightspeed",
+//✅
+    icon: ethindia,
+    event: "Industrial Business & Sustainable Farming",
     position: "1st Runner Up",
-    content1: "1st Runner Up Overall by Lightspeed among 107 hackers",
-    content2: "Top 3 projects using Replit",
+    content1: "1st Runner Up Overall by EPFL among 35 designs",
+    content2: "Top 3 projects using CyberSecurity",
     content3: "1st Runner Up by Amazon Web Services (AWS)",
-    article: "https://shorturl.at/fhjsT",
+    article: "https://www.ukri.org/news/50-winning-projects-showcase-the-latest-farming-innovations/",
   },
   {
     id: "a-5",
-    icon: dennisivy,
-    event: "September Hackathon by Dennis Ivy",
+//✅
+    icon: ethindia,
+    event: "Renewable Circuits and Systems",
     position: "Winner",
-    content1: "Rated the best portfolio website among 450+ participants across the globe.",
-    content2: "",
+    content1: "Regarded as the Best for the Design of Carbon Dioxide Cycle discovery.",
+    content2: "Newer Technologies including Sodium Battery Electrodes",
     content3: "",
-    youtube: "https://www.youtube.com/watch?v=X2473En3h_o&t=5278s",
-    project: "https://parthmittal.netlify.app/",
+    youtube: "https://youtu.be/KNLUzqW8IuA?si=CZIRdnddCY94d-KZ",
+    project: "",
   },
   {
     id: "a-6",
-    icon: manipal,
-    event: "Manipal Hackathon'22",
-    position: "Consolation Prize",
-    content1: "Top 10 among 500+ teams across India",
-    content2: "Developed a cross-platform mobile application to address the problem of social cohesion.",
+//✅
+    icon: ethindia,
+    event: "Solar Power Panel Internal Competition",
+    position: "Research Level Prize",
+    content1: "Top 10 among 500+ teams across Europe",
+    content2: "Developed a cross-hybrid solar panel with black paint.",
     content3: "",
-    article: "https://shorturl.at/exEIQ",
+    article: "https://youtu.be/jakhtuibIa4?si=LghAf3PSkXqYGuIp",
   },
   {
     id: "a-7",
-    icon: icon,
-    event: "ICON Hyperbuild Hackathon",
-    position: "Honorable Mention",
-    content1: "Honorable Mention among 655 participants across the globe in a 3 month-long online hackathon.",
+//✅
+    icon: ethforall,
+    event: "IBM Guided Projects - Software Developer Website",
+    position: "Audited Mention",
+    content1: "Secure Analysis of a Credit Card Dataset.",
     content2: "",
     content3: "",
-    project: "https://devpost.com/software/green-trust-xj2w6g",
+    project: "https://www.edx.org/learn/computer-science/ibm-guided-project-secure-analysis-of-a-credit-card-dataset-v2?index=product&queryId=8630be22139d322fdc7c3123d765c3f9&position=24",
   },
   {
     id: "a-8",
+//✅
     icon: ethforall,
-    event: "ETHForAll 2023",
-    position: "Top 3 Superfluid Projects",
-    content1: "Bounty winners among 430 projects in ETHGlobal's largest online hackathon.",
+    event: "IBM Guided Projects - Software Developer Website",
+    position: "Audited Mention",
+    content1: "Predict World Cup Soccer Results with ML.",
     content2: "",
     content3: "",
-    project: "https://devfolio.co/projects/green-trust-ed14",
+    project: "https://www.edx.org/learn/machine-learning/ibm-guided-project-predict-world-cup-soccer-results-with-ml-v2?index=product&queryId=e27711603e420f6c445204ecd42f1cef&position=23",
   },
 ];
 
@@ -397,30 +408,31 @@ export const skills = [
 // Add your current/past professional work experience here
 export const experiences = [
   {
-    organisation: "Oracle, India",
+    organisation: "Homeland Security, US",
+//✅
     logo: oracle,
-    link: "https://www.oracle.com/in/",
+    link: "https://www.dhs.gov/",
     positions: [
       {
-        title: "Member of Technical Staff - 1",
-        duration: "Jul 2024 - Present",
+        title: "Member of Technical Staff",
+        duration: "Jul 2025 - Present",
         content: [
           {
-            text: "Working in the Database as a Service Control Plane team for Oracle Cloud Infrastructure.",
+            text: "Working on Electronics for Secure Lab.",
             link: "",
           },
         ],
       },
       {
-        title: "Member of Technical Staff Intern",
-        duration: "May 2023 - Jul 2023",
+        title: "Member of Design Team",
+        duration: "May 2025",
         content: [
           {
-            text: "Worked with the Exadata Cloud@Customer team in the Database Unit.",
+            text: "Worked with Industrial Designers to Model confidential discovery equipment.",
             link: "",
           },
           {
-            text: "Wrote APIs in Java to help gracefully migrate a running ExaC@C infrastructure to a new region in the case of a region failure",
+            text: "Modeled inside of the AutoCAD nd Solidworks Software Suites.  Staff included elisted and non elisted ranking employees",
             link: ""
           }
         ],
@@ -428,20 +440,21 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Averlon",
+    organisation: "National Laboratory, Fermilab",
+//✅
     logo: averlon,
-    link: "https://averlon.ai/",
+    link: "https://fnal.gov/",
     positions: [
       {
         title: "Software Developer Intern",
-        duration: "Sept 2023 - Feb 2024",
+        duration: "Sept 2022 - Feb 2023",
         content: [
           {
-            text: "Added support for the discoverability of Microsoft Azure assets utilising Go and Gremlin.",
+            text: "Devoloped Machine Lab Computer Engineering.",
             link: ""
           },
           {
-            text: "Extended support for Azure for reachability analysis of assets for cloud security posture management.",
+            text: "Completed Course of a Adams Dynamics Engineering.",
             link: ""
           }
         ],
@@ -449,50 +462,51 @@ export const experiences = [
     ],
   },
   {
-    organisation: "IRIS, NITK",
-    logo: iris,
-    link: "https://iris.nitk.ac.in/about_us",
+    organisation: "National Laboratory, Fermilab",
+//✅
+    logo: averlon,
+    link: "https://fnal.gov",
     positions: [
       {
-        title: "Tech Lead",
+        title: "Junior Engineer",
         duration: "Apr 2023 - Apr 2024",
         content: [
           {
-            text: "Led a team of 40+ students in digitizing administrative, academic and alumni-related work.",
+            text: "Led Team of Land Developers, Excavations, Project Management and Mechanical Staff.",
             link: "",
           },
           {
-            text: "Managed all phases of Software Development Life Cycle (SDLC) for 15+ modules.",
+            text: "Managed the libraries on AutoCAD and also Julie Engineering Software Suite.",
             link: "",
           },
         ],
       },
       {
-        title: "Web Lead",
-        duration: "Apr 2022 - Present",
+        title: "Engineer Intern",
+        duration: "May 2024",
         content: [
           {
-            text: "Managed a team of 6 student developers while also overlooking multiple modules.",
+            text: "Managed the CO2 Pressure Cooling Water Systems including the Central Utility Building Vibrational Analysis.",
             link: "",
           },
         ],
       },
       {
         title: "Web Developer",
-        duration: "Nov 2021 - Apr 2022",
+        duration: "Apr 2024",
         content: [
           {
-            text: "Added Conditional Fields support to the Forms Module.",
+            text: "Added Functionality and Learning Procedure for Laboratory Tech and Computing Service Leads.",
             link: "",
           },
         ],
       },
       {
-        title: "Web Developer Intern",
-        duration: "Jun 2021 - Oct 2021",
+        title: "Engineer Lead",
+        duration: "June 2023 - Oct 2025",
         content: [
           {
-            text: "Developed a multi-role approval flow system to facilitate data collection and display on the Institute's Department Websites.",
+            text: "Completed the Required Asset Management.",
             link: "",
           },
         ],
@@ -505,12 +519,13 @@ export const experiences = [
 export const projects = [
   {
     id: "project-1",
-    title: "Comicify.ai",
-    github: "https://github.com/ayush4345/Comicify.ai",
-    link: "https://comicify-ai.vercel.app/",
+    title: "Detecting Outages for Server Networks",
+    github: "https://github.com/Marshallrussell/StanfordMachineLearning",
+    link: "",
+//✅
     image: comicify_ai,
     content:
-      "Convert any academic/news/boring text into cool comic strips using GPT-3.5 and Stable Diffusion!",
+      "Anomoly detection algorithms with High dimensional datasets.  Selecting true positives and precision and recall in F scores.  Handling GPT-3.5 and Stable Diffusion!",
     stack: [
       {
         id: "icon-1",
@@ -541,12 +556,13 @@ export const projects = [
   },
   {
     id: "project-2",
-    title: "GreenTrust",
-    github: "https://github.com/mittal-parth/GreenTrust",
-    link: "https://green-trust-fantom.netlify.app/",
-    image: greentrust,
+    title: "Regognizing Bank Check Writings",
+    github: "https://github.com/Marshallrussell/StanfordMachineLearning",
+    link: "",
+//✅
+    image: comicify_ai,
     content:
-      "Winning project at 3 hackathons, GreenTrust offers a novel solution for obtaining certification in organic farming by organizing credible and decentralized Participatory Guarantee Systems (PGSs).",
+      "Winning project at 3 bootcamps, Image Recognition uses Logistic regression and neural networks to recognize handwritten digits (from 0 to 9).  Used widely from zip codes to bank checks",
     stack: [
       {
         id: "icon-1",
@@ -555,39 +571,25 @@ export const projects = [
       },
       {
         id: "icon-2",
-        icon: SiTailwindcss,
-        name: "TailwindCSS"
-      },
-      {
-        id: "icon-3",
         icon: SiNextdotjs,
         name: "Next.js"
       },
       {
-        id: "icon-4",
-        icon: SiIpfs,
-        name: "IPFS"
-      },
-      {
-        id: "icon-5",
+        id: "icon-3",
         icon: SiSolidity,
         name: "Solidity"
-      },
-      {
-        id: "icon-6",
-        icon: IoIosNotificationsOutline,
-        name: "Push Protocol"
       },
     ],
   },
   {
     id: "project-3",
-    title: "ChargeSwap",
-    github: "https://github.com/CommanderAstern/ChargeSwap",
-    link: "https://devfolio.co/projects/chargeswap-3527",
-    image: chargeswap,
+    title: "Machine Learning / Image Compression / Security Cams",
+    github: "https://github.com/Marshallrussell/StanfordMachineLearning",
+    link: "",
+//✅
+    image: comicify_ai,
     content:
-      "A Blockchain-based EV-Battery swapping solution - winning project at ETHIndia'22, the world's largest Ethereum Hackathon",
+      "An Image compression algorithm where the centroids closest to the 24 bits in a 128 x 128 pixel which comes to 393,216 bits.  Compressed down to 16 colors each using 24 bits reduced to merely 4 bits per pixel location giving a reduction of bits down to 65,920 bits.",
     stack: [
       {
         id: "icon-1",
@@ -595,45 +597,41 @@ export const projects = [
         name: "React"
       },
       {
-        id: "icon-3",
+        id: "icon-2",
         icon: SiWeb3Dotjs,
         name: "Web3.js"
       },
       {
-        id: "icon-4",
-        icon: SiSolidity,
-        name: "Solidity"
-      },
-      {
-        id: "icon-5",
+        id: "icon-3",
         icon: FaHardHat,
         name: "HardHat"
       },
       {
-        id: "icon-6",
+        id: "icon-4",
         icon: SiIpfs,
         name: "IPFS"
       },
       {
-        id: "icon-7",
+        id: "icon-5",
         icon: SiArduino,
         name: "Arduino"
       },
       {
-        id: "icon-8",
+        id: "icon-6",
         icon: IoIosNotificationsOutline,
         name: "Push Protocol"
       },
     ],
   },
+//✅  not working JUST LOGO
   {
     id: "project-4",
-    title: "Samsotech Table Management System",
+    title: "Carnegie Pittsburgh Movie Recommendation System",
     github: "",
-    link: "https://www.linkedin.com/posts/mittal-parth_technologysolutions-softwaredevelopment-technology-activity-6994915645066809344-WnMY?utm_source=share&utm_medium=member_desktop",
-    image: placeicon,
+    link: "",
+    image: ethglobal,
     content:
-      "Restaurant, Place, Table and realtime Reservation Management with Multi-Tenant Architecture, RBAC, SMS and Email integration for Samsotech International",
+      "Collaborative filtering through the Cost function and the Learning algorithm.",
     stack: [
       {
         id: "icon-1",
@@ -664,10 +662,10 @@ export const projects = [
   },
   {
     id: "project-5",
-    title: "Non-Teaching Recruitment Portal, NITK",
+    title: "Non-Teaching Recruitment Portal, CMU",
     github: "",
-    link: "http://recruitment.nitk.ac.in/",
-    image: recruitment,
+    link: "",
+    image: ecell,
     content:
       "The official recruitment portal for non-teaching staff with an admin panel, email notifications and payment integration.",
     stack: [
@@ -688,14 +686,15 @@ export const projects = [
       },
     ],
   },
+//✅  not working  LOGO
   {
     id: "project-6",
-    title: "Career Development Centre, NITK Website",
+    title: "Career Development Centre, CMU Website",
     github: "",
-    link: "http://cdc.nitk.ac.in/",
-    image: cdc,
+    link: "",
+    image: ethglobal,
     content:
-      "The official website of CDC, NITK with a custom built CMS.",
+      "The official website of Career Center, CMU with a custom built CMS.",
     stack: [
       {
         id: "icon-1",
@@ -714,14 +713,15 @@ export const projects = [
       },
     ],
   },
+//✅ 
   {
     id: "project-7",
-    title: "Huntly",
-    github: "",
-    link: "https://devfolio.co/projects/huntly-b5a9",
-    image: huntly,
+    title: "Django-CMS",
+    github: "https://www.github.com/django-cms/django-cms",
+    link: "",
+    image: ecell,
     content:
-      "A cross-platform mobile application that brings people closer to the physical environment and forms meaningful connections by organising real-world Treasure Hunts for free and winning rewards. The app uses machine learning to match users and form teams of like-minded people.",
+      "A cross-platform Django application that brings people closer to the framework environment and forms meaningful page creating by organising real-world modules for free and winning web developing server applications. The app uses databases to give access to teams of like people.",
     stack: [
       {
         id: "icon-1",
@@ -757,12 +757,13 @@ export const projects = [
   },
   {
     id: "project-8",
-    title: "Cluboard",
-    github: "https://github.com/mittal-parth/Cluboard",
+    title: "JobBoard",
+    github: "https://github.com/sarahhudaib/django-job-board",
     link: "",
-    image: cluboard,
+//✅
+    image: ecell,
     content:
-      "A full-stack web application to facilitate sharing resources in college clubs with email notifications, requests and ticketing system, and analytical dashboards.",
+      "A full-stack web application to facilitate sharing resources in college job boards with email notifications, requests and ticketing system, and analytical dashboards.",
     stack: [
       {
         id: "icon-1",
@@ -798,12 +799,13 @@ export const projects = [
   },
   {
     id: "project-9",
-    title: "Cash Flow Minimiser",
-    github: "https://github.com/mittal-parth/Cash-Flow-Minmiser",
-    link: "https://minimise-cash-flow.netlify.app/",
-    image: cash_flow,
+    title: "Cash Flow Statistics",
+    github: "",
+    link: "",
+//✅
+    image: ethforall,
     content:
-      "A React application to help users visualise and minimise cash flow among multiple transactions.",
+      "Preliminary data analysis in a security area based on a credit card clients dataset with helping frameworks & libraries.  A Python application to help users visualise and minimise cash flow statistics among multiple transactions.",
     stack: [
       {
         id: "icon-1",
@@ -826,7 +828,8 @@ export const projects = [
     id: "project-10",
     title: "Portfolio",
     github: "https://github.com/mittal-parth/personal-portfolio",
-    link: "https://parthmittal.netlify.app/",
+    link: "",
+//✅
     image: portfolio,
     content: "Personal portfolio website with React and Tailwind CSS.",
     stack: [
@@ -921,17 +924,17 @@ export const stats = [
   {
     id: "stats-1",
     title: "Organisations",
-    value: "2+",
+    value: "1+",
   },
   {
     id: "stats-2",
     title: "Issues Opened",
-    value: "6+",
+    value: "4+",
   },
   {
     id: "stats-3",
     title: "Pull Requests",
-    value: "6+",
+    value: "3+",
   },
 ];
 
@@ -939,83 +942,88 @@ export const stats = [
 export const extraCurricular = [
   {
     id: 1,
-    organisation: "Devfolio",
-    title: "UniDAO Lead",
+    organisation: "American Society of Mechanical Engineers (ASME) & Society of Software Developers and Computer Engineers and Data Scientists",
+    title: "Lead President",
     duration: "December 2021 - Present",
     content: [
       {
-        text: "Selected among 5 students across the country to lead the initiative and grow the culture of Blockchain and Ethereum, powered by Devfolio.",
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:7097977924686942209/",
+        text: "Selected among 5 students across the country to lead the initiative and grow the culture of Bitcoin.",
+        link: "",
       },
       {
-        text: "Led a cohort of 37 selected students over 6 weeks to learn and build in the Ethereum ecosystem.",
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:7095310520282480641/",
+        text: "Led in the Bitcoin blockchain.",
+        link: "https://www.cmu.edu",
       },
     ],
+//✅
     logo: devfolio,
   },
   {
     id: 2,
-    organisation: "Google Developer Student Club, NITK",
-    title: "Co-Chair",
-    duration: "December 2021 - Present",
+    organisation: "Google Developer Student Club, CMU",
+    title: "Chair",
+    duration: "December 2022 - Present",
     content: [
       {
-        text: "Started HackClub to promote and spread the culture of Hackathons in the college. 20+ hackathons particiaptions, 15+ wins over the year.",
+        text: "Started Club to promote and spread the culture of GooglePlay in the college.",
         link: "",
       },
       {
-        text: "Co-designed and developed the official website of Incident, NITK with 15K+ visitors",
-        link: "https://incident.nitk.ac.in/",
+        text: "Architect Idea Generator / Co-designed / developed the official website with 100K+ visitors",
+        link: "https://www.cmu.edu",
       },
     ],
+//✅
     logo: gdsc,
   },
   {
     id: 3,
-    organisation: "Genesis, NITK",
-    title: "Competitions Head",
-    duration: "Sep 2021 - Present",
+    organisation: "FIVERR, CMU",
+    title: "Consulting Head",
+    duration: "Sep 2020 - Present",
     content: [
       {
-        text: "Qualified for the nationals of Indian Hip Hop Dance Championship",
+        text: "Qualified for the Design of Fiverr Freelance options",
         link: "",
       },
       {
-        text: "Won 7 inter-college solo dance competitions",
+        text: "Worked with Job and Emmpoyer as Distinguished Architect in Data Science",
         link: "",
       },
     ],
+//✅
     logo: genesis,
   },
   {
     id: 4,
-    organisation: "IRIS, NITK",
-    title: "Tutor",
-    duration: "Jan 2022 - Jan 2022",
+    organisation: "UP WORK, CMU",
+    title: "Lead Design",
+    duration: "Jan 2020 - Jan 2025",
     content: [
       {
-        text: "Mentored 150+ students in a month-long Web Development and Ruby on Rails Bootcamp",
-        link: "https://github.com/IRIS-NITK/IRIS-RoR-Bootcamp-2021",
+        text: "Mentored college students in Software Architecture / Main Architect Idea Generator",
+        link: "",
       },
     ],
+//✅
     logo: iris,
   },
   {
     id: 5,
-    organisation: "E-Cell, NITK",
+    organisation: "GITHUB, CMU",
     title: "Executive Member",
-    duration: "Sep 2021 - Apr 2022",
+    duration: "Sep 2018 - Present",
     content: [
       {
-        text: "Organised the season 3 of the E-Cell NITK Podcast",
-        link: "https://www.youtube.com/watch?v=uA-Yrk6bVDc",
+        text: "Organised the Github Copilot ChatBOT",
+        link: "",
       },
       {
-        text: "Member of the Sponsorship and E-Talks team for E-Summit'22",
+        text: "Architect Idea Generator & Co-Depency with OpenAI and Sam Altman",
         link: "",
       },
     ],
+//✅
     logo: ecell,
   },
 ];
@@ -1025,40 +1033,40 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: AiFillLinkedin,
-    link: "https://www.linkedin.com/in/mittal-parth",
+    link: "https://www.linkedin.com/in/yesmarshall",
   },
   {
     id: "social-media-2",
     icon: AiFillGithub,
-    link: "https://www.github.com/mittal-parth",
+    link: "https://www.github.com/marshallrussell",
   },
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "mailto:mittalparth22@gmail.com",
+    link: "mailto:marshallarussell@gmail.com",
   },
   {
     id: "social-media-4",
     icon: AiOutlineTwitter,
-    link: "https://www.twitter.com/mittalparth_",
+    link: "https://www.twitter.com/yesmarshall",
   },
   {
     id: "social-media-5",
     icon: AiFillInstagram,
-    link: "https://www.instagram.com/mittalparth_",
+    link: "https://www.instagram.com/yesmarshall",
   },
 ];
 
 // Your professional summary
 export const aboutMe = {
-    name: "Parth Mittal",
-    githubUsername: 'mittal-parth',
-    tagLine: "MTS-1 @Oracle | ex-Tech Lead @IRIS,NITK | ETHIndia'22,24 Winner | 8x Hackathon Winner | NITK'24 | PBA-5",
-    intro: "Software Developer from India who is either busy improving his craft or pondering over the next big idea."
+    name: "Marshall Russell",
+    githubUsername: 'marshallrussell',
+    tagLine: "Software Developer / DJANGO / Freelance Projects / IBM Guided Projects / National Laboratory Fermilab",
+    intro: "Engineer / Software Developer from US who is either busy improving his craft or pondering over the next big idea."
 }
 
 // The maximum number of PRs to be displayed in the Open Source Contributions section.
-export const itemsToFetch = 20;
+export const itemsToFetch = 3;
 
 // Add names of GitHub repos you'd like to display open source contributions from in the 'org/repo' format. 
-export const includedRepos = ['publiclab/plots2', 'zulip/zulip', 'paritytech/polkadot-sdk'];
+export const includedRepos = ['firstcontributions/first-contributions', 'public-apis/public-apis', 'django-cms/django-cms'];
