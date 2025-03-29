@@ -1034,15 +1034,15 @@ export const extraCurricular = [
     content: [
       {
         text: "(The Innovators Circle) Authored / Published Ebook Aided With ChatBOT",
-//        link: "https://pe56d.s3.amazonaws.com/o_1imm94lp0lgf1eqe1d1t14ht1aoer.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=N3TkuB2CNOd3WmX%2B%2FcwWoZooRfI%3D&Expires=1743325310&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
+        link: "https://pe56d.s3.amazonaws.com/o_1imm94lp0lgf1eqe1d1t14ht1aoer.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=N3TkuB2CNOd3WmX%2B%2FcwWoZooRfI%3D&Expires=1743325310&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
       },
       {
         text: "(The Stitch-Spark) Authored / Published Ebook Aided With ChatBOT",
-//        link: "https://pe56d.s3.amazonaws.com/o_1imm9fnei1ud9uu1paf1kmrtcer.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=65ZEpwSpN5iXSvOJ9f6x9vyvXI0%3D&Expires=1743325923&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
+        link: "https://pe56d.s3.amazonaws.com/o_1imm9fnei1ud9uu1paf1kmrtcer.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=65ZEpwSpN5iXSvOJ9f6x9vyvXI0%3D&Expires=1743325923&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
       },
       {
         text: "(Slim Secret Theory) Authored / Published Ebook Aided With ChatBOT",
-//        link: "https://pe56d.s3.amazonaws.com/o_1in0k6gug1lb9n191vfc1s1mfad10.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=HRRVN22ZxRvPELxUcNNxtSUzR9I%3D&Expires=1743325982&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
+        link: "https://pe56d.s3.amazonaws.com/o_1in0k6gug1lb9n191vfc1s1mfad10.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=HRRVN22ZxRvPELxUcNNxtSUzR9I%3D&Expires=1743325982&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
       },
     ],
 //✅
