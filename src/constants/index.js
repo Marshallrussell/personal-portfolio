@@ -7,23 +7,14 @@ import {
   ecell,
   genesis,
   portfolio,
-  cdc,
-  chargeswap,
   placeicon,
   recruitment,
-  huntly,
   oracle,
   comicify_ai,
-  greentrust,
   averlon,
   devfolio,
   pba,
   ethglobal,
-  polkadot,
-  lightspeed,
-  dennisivy,
-  manipal,
-  icon,
   ethforall,
   ethindia
 } from "../assets";
@@ -205,7 +196,7 @@ export const achievements = [
     icon: ethindia,
     event: "Renewable Circuits and Systems",
     position: "Winner",
-    content1: "Regarded as the Best for the Design of Carbon Dioxide Cycle discovery.",
+    content1: "Regarded as the Best for the Design of Carbon Cycle Production with insulation specifications allowing for novel generation of power and discovery in the laboratory.",
     content2: "Newer Technologies including Sodium Battery Electrodes",
     content3: "",
     youtube: "https://youtu.be/KNLUzqW8IuA?si=CZIRdnddCY94d-KZ",
@@ -721,7 +712,7 @@ export const projects = [
     link: "",
     image: ecell,
     content:
-      "A cross-platform Django application that brings people closer to the framework environment and forms meaningful page creating by organising real-world modules for free and winning web developing server applications. The app uses databases to give access to teams of like people.",
+      "A cross-platform Django application that brings coding closer to the Django framework environment and allows for meaningful page creation via the API.  Organizes real-world modules for free and web development server applications. The app uses databases to give access to teams of people.",
     stack: [
       {
         id: "icon-1",
@@ -809,8 +800,8 @@ export const projects = [
     stack: [
       {
         id: "icon-1",
-        icon: SiReact,
-        name: "React"
+        icon: SiPython,
+        name: "Python"
       },
       {
         id: "icon-2",
@@ -942,7 +933,7 @@ export const stats = [
 export const extraCurricular = [
   {
     id: 1,
-    organisation: "American Society of Mechanical Engineers (ASME) & Society of Software Developers and Computer Engineers and Data Scientists",
+    organisation: "American Society of Mechanical Engineers (ASME)",
     title: "Lead President",
     duration: "December 2021 - Present",
     content: [
