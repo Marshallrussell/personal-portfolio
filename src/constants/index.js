@@ -1025,11 +1025,11 @@ export const extraCurricular = [
     content: [
       {
         text: "Organised the Hollywood Acts Intenting to Create",
-        link: "https://h007.weebly.com",
+        link: "",
       },
       {
         text: "Briefing of Citizen Enlisted Careers and Space Corps Install Idea",
-        link: "https://payhip.com/b/ztfUM",
+        link: "",
       },
     ],
 //✅
@@ -1043,15 +1043,15 @@ export const extraCurricular = [
     content: [
       {
         text: "(The Innovators Circle) Authored / Published Ebook Aided With ChatBOT",
-        link: "https://payhip.com/b/j5V4W",
+        link: "",
       },
       {
         text: "(The Stitch-Spark) Authored / Published Ebook Aided With ChatBOT",
-        link: "https://payhip.com/b/Gbncy",
+        link: "",
       },
       {
         text: "(Slim Secret Theory) Authored / Published Ebook Aided With ChatBOT",
-        link: "https://payhip.com/b/BWlci",
+        link: "",
       },
     ],
 //✅
