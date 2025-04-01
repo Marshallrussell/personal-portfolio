@@ -1029,7 +1029,7 @@ export const extraCurricular = [
       },
       {
         text: "Briefing of Citizen Enlisted Careers and Space Corps Install Idea",
-        link: "https://pe56d.s3.amazonaws.com/o_1imrdnd511gc21icb3b72c3lf9r.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=IcNwl9exnM3ROHws8yGh6nFDW1Y%3D&Expires=1743326289&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
+        link: "https://payhip.com/b/ztfUM",
       },
     ],
 //✅
@@ -1043,15 +1043,15 @@ export const extraCurricular = [
     content: [
       {
         text: "(The Innovators Circle) Authored / Published Ebook Aided With ChatBOT",
-        link: "https://pe56d.s3.amazonaws.com/o_1imm94lp0lgf1eqe1d1t14ht1aoer.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=N3TkuB2CNOd3WmX%2B%2FcwWoZooRfI%3D&Expires=1743325310&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
+        link: "https://payhip.com/b/j5V4W",
       },
       {
         text: "(The Stitch-Spark) Authored / Published Ebook Aided With ChatBOT",
-        link: "https://pe56d.s3.amazonaws.com/o_1imm9fnei1ud9uu1paf1kmrtcer.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=65ZEpwSpN5iXSvOJ9f6x9vyvXI0%3D&Expires=1743325923&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
+        link: "https://payhip.com/b/Gbncy",
       },
       {
         text: "(Slim Secret Theory) Authored / Published Ebook Aided With ChatBOT",
-        link: "https://pe56d.s3.amazonaws.com/o_1in0k6gug1lb9n191vfc1s1mfad10.pdf?AWSAccessKeyId=AKIAIP3NFJ5OR5FTFOQQ&Signature=HRRVN22ZxRvPELxUcNNxtSUzR9I%3D&Expires=1743325982&response-content-disposition=inline;filename=%22preview.pdf%22&response-content-type=application/pdf",
+        link: "https://payhip.com/b/BWlci",
       },
     ],
 //✅
