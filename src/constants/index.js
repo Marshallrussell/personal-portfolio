@@ -1031,6 +1031,10 @@ export const extraCurricular = [
         text: "Briefing of Citizen Enlisted Careers and Space Corps Install Idea",
         link: "https://payhip.com/b/ztfUM",
       },
+      {
+        text: "Creative Commons Licenses Invent Ideas Thoughts and Install Idea",
+        link: "https://payhip.com/b/EJvkU"
+      },
     ],
 //✅
     logo: ecell,
