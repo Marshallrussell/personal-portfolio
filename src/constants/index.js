@@ -791,7 +791,7 @@ export const projects = [
   {
     id: "project-9",
     title: "Cash Flow Statistics",
-    github: "https://github.com/Marshallrussell/StanfordMachineLearning",
+    github: "https://github.com/Marshallrussell/StanfordMachineLearning/tree/main/IBM",
     link: "https://www.edx.org/learn/computer-science/ibm-guided-project-secure-analysis-of-a-credit-card-dataset-v2?index=product&queryId=8630be22139d322fdc7c3123d765c3f9&position=24",
 //✅
     image: ethforall,
