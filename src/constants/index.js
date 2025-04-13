@@ -792,7 +792,7 @@ export const projects = [
     id: "project-9",
     title: "Cash Flow Statistics",
     github: "",
-    link: "",
+    link: "https://www.edx.org/learn/computer-science/ibm-guided-project-secure-analysis-of-a-credit-card-dataset-v2?index=product&queryId=f9b472e169e2de621a43cc967f65c5ff&position=24",
 //✅
     image: ethforall,
     content:
