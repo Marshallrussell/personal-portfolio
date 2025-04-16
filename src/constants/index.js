@@ -1046,6 +1046,10 @@ export const extraCurricular = [
     duration: "Sep 2018 - Present",
     content: [
       {
+        text: "(The Book of Michael Jordan - Songwriting) Authored / Published Ebook Aided With ChatBOT",
+        link: "https://payhip.com/b/EMV89",
+      },
+      {
         text: "(The Innovators Circle) Authored / Published Ebook Aided With ChatBOT",
         link: "https://payhip.com/b/j5V4W",
       },
