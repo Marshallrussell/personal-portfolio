@@ -138,12 +138,48 @@ export const educationList = [
     content1: "Graduated with a distinction in top quintile at the University of Carnegie Mellon of Pennslyvania.",
 
   },
-];
+  {
+    id: "education-3",
+//✅
+    icon: nitk,
+    title: "Doctorate Fermilab Senior Research",
+    degree: "Doctorate & Doctoral Fellowship in Superconducting Undulators using Tin to enhance brightness",
+    duration: "May 2004 - June 2006",
+    content1: "Graduated with a distinction alongside Purdue University of Indiana.",
 
+  },
+
+];
 // Add your past achievments here for example - rankings in hackathons/events
 export const achievements = [
   {
     id: "a-1",
+//✅
+    icon: ethindia,
+    event: "Universal Music Group",
+    position: "Bob Dylan Center Songwriting Fellowship",
+    content1: "The esteemed fellowship award of Bob Dylan Center Songwriter Fellowship has been ﻿endowed to my name. Professional contracts. Composere Generator: J. Timber-lake Production, Architect Generator: The Matrix 4 Invention.",
+    content2: "Film Music TV: Winner 1st Place / Student Composer: 1st Runner Up",
+    content3: "",
+    article: "https://bobdylancenter.com/songwriterfellowship/",
+    project: "https://bobdylancenter.com/songwriterfellowship/",
+    youtube: "https://www.youtube.com/channel/UCkxv7FUeKqdT7wIS_OqL3Gg",
+  },
+  {
+    id: "a-2",
+//✅
+    icon: ethindia,
+    event: "American Society of Composers, Authors and Publishers (ASCAP) Vanguard Award",
+    position: "ASCAP Vanguard Winner",
+    content1: "The esteemed award of ASCAP Vanguard Award has been endowed to my name. Professional contracts and royalty come alongside this composer merit badge.",
+    content2: "Film Music TV: 1st Runner Up / Student Composer: 2nd Runner Up",
+    content3: "",
+    article: "https://www.ascap.com/",
+    project: "",
+    youtube: "https://youtu.be/GcZS3BHYuYk?si=DRGli38bxMGBsekB",
+  },
+  {
+    id: "a-3",
 //✅
     icon: ethindia,
     event: "Solar Vehicle Race | EPFL Solarathon",
@@ -156,7 +192,7 @@ export const achievements = [
     youtube: "https://www.youtube.com/@SolarCarChallenge/search",
   },
   {
-    id: "a-2",
+    id: "a-4",
     icon: ethglobal,
 //✅
     event: "ASME'25 | World's Lab on a Pill Hackathon",
@@ -169,7 +205,7 @@ export const achievements = [
     youtube: "https://www.youtube.com/watch?v=e1o8mDj-FYA",
   },
   {
-    id: "a-3",
+    id: "a-5",
 //✅
     icon: ethindia,
     event: "Engineering Business Competition: Europe Edition",
@@ -180,7 +216,7 @@ export const achievements = [
     github: "",
   },
   {
-    id: "a-4",
+    id: "a-6",
 //✅
     icon: ethindia,
     event: "Industrial Business & Sustainable Farming",
@@ -191,7 +227,7 @@ export const achievements = [
     article: "https://www.ukri.org/news/50-winning-projects-showcase-the-latest-farming-innovations/",
   },
   {
-    id: "a-5",
+    id: "a-7",
 //✅
     icon: ethindia,
     event: "Renewable Circuits and Systems",
@@ -203,7 +239,7 @@ export const achievements = [
     project: "",
   },
   {
-    id: "a-6",
+    id: "a-8",
 //✅
     icon: ethindia,
     event: "Solar Power Panel Internal Competition",
@@ -214,7 +250,7 @@ export const achievements = [
     article: "https://youtu.be/jakhtuibIa4?si=LghAf3PSkXqYGuIp",
   },
   {
-    id: "a-7",
+    id: "a-9",
 //✅
     icon: ethforall,
     event: "IBM Guided Projects - Software Developer Website",
@@ -225,7 +261,7 @@ export const achievements = [
     project: "https://www.edx.org/learn/computer-science/ibm-guided-project-secure-analysis-of-a-credit-card-dataset-v2?index=product&queryId=8630be22139d322fdc7c3123d765c3f9&position=24",
   },
   {
-    id: "a-8",
+    id: "a-10",
 //✅
     icon: ethforall,
     event: "IBM Guided Projects - Software Developer Website",
