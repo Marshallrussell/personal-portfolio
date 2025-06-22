@@ -80,7 +80,7 @@ import {
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
-export const resumeLink = "https://h007.weebly.com/uploads/1/4/6/0/146046514/claremontresume.pdf";
+export const resumeLink = "https://h007.weebly.com/uploads/1/4/6/0/146046514/marshallrussell-onlineresume.pdf";
 export const repoLink = "https://github.com/marshallrussell/personal-portfolio";
 
 export const callToAction = "https://www.linkedin.com/in/yesmarshall";
