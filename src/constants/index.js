@@ -155,6 +155,19 @@ export const achievements = [
   {
     id: "a-1",
 //✅
+    icon: ethglobal,
+    event: "Screen Actor Guild Member for Future after Timothée Chalamet wins SAG Award 2025",
+    position: "ROLE to Mason Gamble (TROOP to Meryl Streep)",
+    content1: "Screen Actors Guild Awards (also known as SAG Awards) are accolades given by the Screen Actors Guild-American Federation of Television and Radio Artists (SAG-AFTRA)  Stands with Full membership (165,000 as of 2012).",
+    content2: "This is the third time for use by my 'President Actor Role.'  (1) Meryl's Troop, (2) LVHM Design Firm, (3) Bob Dylan Center Songwriter Fellowship.",
+    content3: "Troop Role handed to Mason Gamble; Design Role with firm will by Mirale Mustafa / Russell.  The fellowship will by my Presidential Invention therby my career contract and royalty. This is my Acting career.  Possibly perhaps a RETURN.",
+    article: "https://www.sagaftra.org/",
+    project: "https://www.uml.edu/Chancellor/Speaker-Series/Meryl-Streep/Scholarships.aspx",
+    youtube: "https://www.youtube.com/live/kHkvGETNsDE?si=wAQpSB0TlGrEnYA5",
+  },
+  {
+    id: "a-2",
+//✅
     icon: ethindia,
     event: "Universal Music Group",
     position: "Bob Dylan Center Songwriting Fellowship",
@@ -166,7 +179,7 @@ export const achievements = [
     youtube: "https://www.youtube.com/channel/UCkxv7FUeKqdT7wIS_OqL3Gg",
   },
   {
-    id: "a-2",
+    id: "a-3",
 //✅
     icon: ethindia,
     event: "American Society of Composers, Authors and Publishers (ASCAP) Vanguard Award",
@@ -179,7 +192,7 @@ export const achievements = [
     youtube: "https://youtu.be/GcZS3BHYuYk?si=DRGli38bxMGBsekB",
   },
   {
-    id: "a-3",
+    id: "a-4",
 //✅
     icon: ethindia,
     event: "Solar Vehicle Race | EPFL Solarathon",
@@ -192,7 +205,7 @@ export const achievements = [
     youtube: "https://www.youtube.com/@SolarCarChallenge/search",
   },
   {
-    id: "a-4",
+    id: "a-5",
     icon: ethglobal,
 //✅
     event: "ASME'25 | World's Lab on a Pill Hackathon",
@@ -205,7 +218,7 @@ export const achievements = [
     youtube: "https://www.youtube.com/watch?v=e1o8mDj-FYA",
   },
   {
-    id: "a-5",
+    id: "a-6",
 //✅
     icon: ethindia,
     event: "Engineering Business Competition: Europe Edition",
@@ -216,7 +229,7 @@ export const achievements = [
     github: "",
   },
   {
-    id: "a-6",
+    id: "a-7",
 //✅
     icon: ethindia,
     event: "Industrial Business & Sustainable Farming",
@@ -227,7 +240,7 @@ export const achievements = [
     article: "https://www.ukri.org/news/50-winning-projects-showcase-the-latest-farming-innovations/",
   },
   {
-    id: "a-7",
+    id: "a-8",
 //✅
     icon: ethindia,
     event: "Renewable Circuits and Systems",
@@ -239,7 +252,7 @@ export const achievements = [
     project: "",
   },
   {
-    id: "a-8",
+    id: "a-9",
 //✅
     icon: ethindia,
     event: "Solar Power Panel Internal Competition",
@@ -250,7 +263,7 @@ export const achievements = [
     article: "https://youtu.be/jakhtuibIa4?si=LghAf3PSkXqYGuIp",
   },
   {
-    id: "a-9",
+    id: "a-10",
 //✅
     icon: ethforall,
     event: "IBM Guided Projects - Software Developer Website",
@@ -261,7 +274,7 @@ export const achievements = [
     project: "https://www.edx.org/learn/computer-science/ibm-guided-project-secure-analysis-of-a-credit-card-dataset-v2?index=product&queryId=8630be22139d322fdc7c3123d765c3f9&position=24",
   },
   {
-    id: "a-10",
+    id: "a-11",
 //✅
     icon: ethforall,
     event: "IBM Guided Projects - Software Developer Website",
@@ -1055,6 +1068,60 @@ export const extraCurricular = [
   },
   {
     id: 6,
+    organisation: "2005 STARTUP DJANGO - SWITZERLAND",
+    title: "Executive AUTHOR",
+    duration: "Sep 2018 - Present",
+    content: [
+      {
+        text: "Presented the Initial Company Creation. Stood as Research of EPFL in Switzerland.",
+        link: "https://www.djangoproject.com/foundation/",
+      },
+    ],
+//✅
+    logo: gdsc,
+  },
+  {
+    id: 7,
+    organisation: "2003-2005 Startup ANDROID INC.",
+    title: "Executive AUTHOR",
+    duration: "Sep 2018 - Present",
+    content: [
+      {
+        text: "Represented by the founders of Android Inc., was founded in Palo Alto, California in 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White.",
+        link: "",
+      },
+      {
+        text: "Converted ownership investor with shares for Android Inc. now held by Google LLC.",
+        link: "",
+      },
+    ],
+//✅
+    logo: gdsc,
+  },
+  {
+    id: 8,
+    organisation: "2004 PUBLIC IPO GOOGLE LLC",
+    title: "Executive Investor through ANDROID, INC purchased by GOOGLE in 2005",
+    duration: "Sep 2018 - Present",
+    content: [
+      {
+        text: "2000: Google becomes the client search engine for Yahoo!, significantly increasing its user base.",
+        link: "https://about.google/",
+      },
+      {
+        text: "2004: Google goes public with an initial public offering (IPO) at $85 per share, raising nearly $2 billion.",
+        link: "https://about.google/",
+      },
+      {
+        text: "I became an Idea / Architecture Generator in 2005.  Contributed to Inventions therein-throughout as an Idea Generator.",
+        link: "https://about.google/",
+      },
+    ],
+//✅
+    logo: gdsc,
+  },
+  {
+    id: 9,
     organisation: "Marshall Fitzpatricks, ACTOR-CMU",
     title: "Exclusive Director / Actor",
     duration: "Sep 2018 - Present",
@@ -1075,37 +1142,6 @@ export const extraCurricular = [
 //✅
     logo: ecell,
   },
-  {
-    id: 7,
-    organisation: "MANUSCRIPT PUBLISHING / SONGWRITING, PAYHIP-CMU",
-    title: "Executive AUTHOR",
-    duration: "Sep 2018 - Present",
-    content: [
-      {
-        text: "(The Book of Michael Jordan - Songwriting) Authored / Published Ebook Aided With ChatBOT",
-        link: "https://payhip.com/b/EMV89",
-      },
-      {
-        text: "(The Innovators Circle) Authored / Published Ebook Aided With ChatBOT",
-        link: "https://payhip.com/b/j5V4W",
-      },
-      {
-        text: "(The Stitch-Spark) Authored / Published Ebook Aided With ChatBOT",
-        link: "https://payhip.com/b/Gbncy",
-      },
-      {
-        text: "(Slim Secret Theory) Authored / Published Ebook Aided With ChatBOT.  Make sure to read the description",
-        link: "https://payhip.com/b/BWlci",
-      },
-      {
-        text: "(America The Rock of Preservation) Authored / Published Ebook Aided With ChatBOT",
-        link: "https://payhip.com/b/95SQd",
-      },
-    ],
-//✅
-    logo: ecell,
-  },
-
 ];
 
 // Links to your social media profiles
