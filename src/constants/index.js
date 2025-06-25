@@ -155,12 +155,12 @@ export const achievements = [
   {
     id: "a-1",
 //✅
-    icon: ethglobal,
+    icon: cash_flow,
     event: "Screen Actor Guild Member for Future after Timothée Chalamet wins SAG Award 2025",
     position: "ROLE to Mason Gamble (TROOP to Meryl Streep)",
-    content1: "Screen Actors Guild Awards (also known as SAG Awards) are accolades given by the Screen Actors Guild-American Federation of Television and Radio Artists (SAG-AFTRA)  Stands with Full membership (165,000 as of 2012).",
-    content2: "This is the third time for use by my 'President Actor Role.'  (1) Meryl's Troop, (2) LVHM Design Firm, (3) Bob Dylan Center Songwriter Fellowship.",
-    content3: "Troop Role handed to Mason Gamble; Design Role with firm will by Mirale Mustafa / Russell.  The fellowship will by my Presidential Invention therby my career contract and royalty. This is my Acting career.  Possibly perhaps a RETURN.",
+    content1: "This is the third time for use by my 'President Actor Role.'  (1) Meryl's Troop, (2) LVHM Design Firm, (3) Bob Dylan Center Songwriter Fellowship.",
+    content2: "Troop Role handed to Mason Gamble; Design Role with firm will by Mirale Mustafa-Russell.  The fellowship will be my Presidential Invention thereby my career contract and royalty. This is my Acting career.  Possibly perhaps a RETURN.",
+    content3: "",
     article: "https://www.sagaftra.org/",
     project: "https://www.uml.edu/Chancellor/Speaker-Series/Meryl-Streep/Scholarships.aspx",
     youtube: "https://www.youtube.com/live/kHkvGETNsDE?si=wAQpSB0TlGrEnYA5",
@@ -168,20 +168,20 @@ export const achievements = [
   {
     id: "a-2",
 //✅
-    icon: ethindia,
+    icon: cash_flow,
     event: "Universal Music Group",
     position: "Bob Dylan Center Songwriting Fellowship",
     content1: "The esteemed fellowship award of Bob Dylan Center Songwriter Fellowship has been ﻿endowed to my name. Professional contracts. Composere Generator: J. Timber-lake Production, Architect Generator: The Matrix 4 Invention.",
     content2: "Film Music TV: Winner 1st Place / Student Composer: 1st Runner Up",
     content3: "",
     article: "https://bobdylancenter.com/songwriterfellowship/",
-    project: "https://bobdylancenter.com/songwriterfellowship/",
+    project: "",
     youtube: "https://www.youtube.com/channel/UCkxv7FUeKqdT7wIS_OqL3Gg",
   },
   {
     id: "a-3",
 //✅
-    icon: ethindia,
+    icon: cash_flow,
     event: "American Society of Composers, Authors and Publishers (ASCAP) Vanguard Award",
     position: "ASCAP Vanguard Winner",
     content1: "The esteemed award of ASCAP Vanguard Award has been endowed to my name. Professional contracts and royalty come alongside this composer merit badge.",
@@ -1078,7 +1078,7 @@ export const extraCurricular = [
       },
     ],
 //✅
-    logo: gdsc,
+    logo: cluboard,
   },
   {
     id: 7,
@@ -1096,7 +1096,7 @@ export const extraCurricular = [
       },
     ],
 //✅
-    logo: gdsc,
+    logo: recruitment,
   },
   {
     id: 8,
