@@ -142,10 +142,12 @@ export const educationList = [
     id: "education-3",
 //✅
     icon: nitk,
-    title: "Doctorate Fermilab Senior Research",
-    degree: "Doctorate & Doctoral Fellowship in Superconducting Undulators using Tin to enhance brightness",
+    title: "National Laboratory of Fermilab, Chicago",
+    degree: "Doctorate Fellowship, Senior Engineer",
     duration: "May 2004 - June 2006",
-    content1: "Graduated with a distinction alongside Purdue University of Indiana.",
+    content1: "Concentration posed alongside Purdue University of Indiana.",
+    content2: "Trials with Superconducting Undulators and Tin to enhance brightness of photon-electron beam-line.",
+
 
   },
 
@@ -156,10 +158,10 @@ export const achievements = [
     id: "a-1",
 //✅
     icon: cash_flow,
-    event: "Screen Actor Guild Member for Future after Timothée Chalamet wins SAG Award 2025",
-    position: "ROLE to Mason Gamble (TROOP to Meryl Streep)",
-    content1: "This is the third time for use by my 'President Actor Role.'  (1) Meryl's Troop, (2) LVHM Design Firm, (3) Bob Dylan Center Songwriter Fellowship.",
-    content2: "Troop Role handed to Mason Gamble; Design Role with firm will by Mirale Mustafa-Russell.  The fellowship will be my Presidential Invention thereby my career contract and royalty. This is my Acting career.  Possibly perhaps a RETURN.",
+    event: "Screen Actor Guild Award",
+    position: "Winner, 1st Runner Up",
+    content1: "This 'President Actor Role.'  (1) Meryl's Troop, (2) LVHM Design Firm, (3) Bob Dylan Center Songwriter Fellowship.",
+    content2: "Troop Role handed to Mason Gamble; Design Role with firm will by Mirale Mustafa-Russell. This is my Acting career. Possibly perhaps a RETURN.",
     content3: "",
     article: "https://www.sagaftra.org/",
     project: "https://www.uml.edu/Chancellor/Speaker-Series/Meryl-Streep/Scholarships.aspx",
@@ -167,32 +169,6 @@ export const achievements = [
   },
   {
     id: "a-2",
-//✅
-    icon: cash_flow,
-    event: "Universal Music Group",
-    position: "Bob Dylan Center Songwriting Fellowship",
-    content1: "The esteemed fellowship award of Bob Dylan Center Songwriter Fellowship has been ﻿endowed to my name. Professional contracts. Composere Generator: J. Timber-lake Production, Architect Generator: The Matrix 4 Invention.",
-    content2: "Film Music TV: Winner 1st Place / Student Composer: 1st Runner Up",
-    content3: "",
-    article: "https://bobdylancenter.com/songwriterfellowship/",
-    project: "",
-    youtube: "https://www.youtube.com/channel/UCkxv7FUeKqdT7wIS_OqL3Gg",
-  },
-  {
-    id: "a-3",
-//✅
-    icon: cash_flow,
-    event: "American Society of Composers, Authors and Publishers (ASCAP) Vanguard Award",
-    position: "ASCAP Vanguard Winner",
-    content1: "The esteemed award of ASCAP Vanguard Award has been endowed to my name. Professional contracts and royalty come alongside this composer merit badge.",
-    content2: "Film Music TV: 1st Runner Up / Student Composer: 2nd Runner Up",
-    content3: "",
-    article: "https://www.ascap.com/",
-    project: "",
-    youtube: "https://youtu.be/GcZS3BHYuYk?si=DRGli38bxMGBsekB",
-  },
-  {
-    id: "a-4",
 //✅
     icon: ethindia,
     event: "Solar Vehicle Race | EPFL Solarathon",
@@ -205,7 +181,7 @@ export const achievements = [
     youtube: "https://www.youtube.com/@SolarCarChallenge/search",
   },
   {
-    id: "a-5",
+    id: "a-3",
     icon: ethglobal,
 //✅
     event: "ASME'25 | World's Lab on a Pill Hackathon",
@@ -218,7 +194,7 @@ export const achievements = [
     youtube: "https://www.youtube.com/watch?v=e1o8mDj-FYA",
   },
   {
-    id: "a-6",
+    id: "a-4",
 //✅
     icon: ethindia,
     event: "Engineering Business Competition: Europe Edition",
@@ -229,7 +205,7 @@ export const achievements = [
     github: "",
   },
   {
-    id: "a-7",
+    id: "a-5",
 //✅
     icon: ethindia,
     event: "Industrial Business & Sustainable Farming",
@@ -240,7 +216,7 @@ export const achievements = [
     article: "https://www.ukri.org/news/50-winning-projects-showcase-the-latest-farming-innovations/",
   },
   {
-    id: "a-8",
+    id: "a-6",
 //✅
     icon: ethindia,
     event: "Renewable Circuits and Systems",
@@ -252,7 +228,7 @@ export const achievements = [
     project: "",
   },
   {
-    id: "a-9",
+    id: "a-7",
 //✅
     icon: ethindia,
     event: "Solar Power Panel Internal Competition",
@@ -261,6 +237,32 @@ export const achievements = [
     content2: "Developed a cross-hybrid solar panel with black paint.",
     content3: "",
     article: "https://youtu.be/jakhtuibIa4?si=LghAf3PSkXqYGuIp",
+  },
+  {
+    id: "a-8",
+//✅
+    icon: cash_flow,
+    event: "Universal Music Group",
+    position: "Bob Dylan Center Songwriting Fellowship",
+    content1: "The esteemed fellowship award of Bob Dylan Center Songwriter Fellowship has been ﻿endowed to my name. Professional contracts. Composere Generator: J. Timber-lake Production, Architect Generator: The Matrix 4 Invention.",
+    content2: "Film Music TV: Winner 1st Place / Student Composer: 1st Runner Up",
+    content3: "",
+    article: "https://bobdylancenter.com/songwriterfellowship/",
+    project: "",
+    youtube: "https://www.youtube.com/channel/UCkxv7FUeKqdT7wIS_OqL3Gg",
+  },
+  {
+    id: "a-9",
+//✅
+    icon: cash_flow,
+    event: "American Society of Composers, Authors and Publishers (ASCAP) Vanguard Award",
+    position: "ASCAP Vanguard Winner",
+    content1: "The esteemed award of ASCAP Vanguard Award has been endowed to my name. Professional contracts and royalty come alongside this composer merit badge.",
+    content2: "Film Music TV: 1st Runner Up / Student Composer: 2nd Runner Up",
+    content3: "",
+    article: "https://www.ascap.com/",
+    project: "",
+    youtube: "https://youtu.be/GcZS3BHYuYk?si=DRGli38bxMGBsekB",
   },
   {
     id: "a-10",
@@ -984,7 +986,7 @@ export const extraCurricular = [
     id: 1,
     organisation: "American Society of Mechanical Engineers (ASME)",
     title: "Lead President",
-    duration: "December 2021 - Present",
+    duration: "December 2023 - Present",
     content: [
       {
         text: "Selected among 5 students across the country to lead the initiative and grow the culture of Bitcoin.",
@@ -1068,9 +1070,9 @@ export const extraCurricular = [
   },
   {
     id: 6,
-    organisation: "2005 STARTUP DJANGO - SWITZERLAND",
-    title: "Executive AUTHOR",
-    duration: "Sep 2018 - Present",
+    organisation: "DJANGO FRAMEWORK",
+    title: "Swiss Startup Programmer",
+    duration: "Aug 2003 - Present",
     content: [
       {
         text: "Presented the Initial Company Creation. Stood as Research of EPFL in Switzerland.",
@@ -1082,16 +1084,12 @@ export const extraCurricular = [
   },
   {
     id: 7,
-    organisation: "2003-2005 Startup ANDROID INC.",
-    title: "Executive AUTHOR",
-    duration: "Sep 2018 - Present",
+    organisation: "ANDROID INC.",
+    title: "USA Startup Programmer",
+    duration: "Sep 2003 - Aug 2005",
     content: [
       {
         text: "Represented by the founders of Android Inc., was founded in Palo Alto, California in 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White.",
-        link: "",
-      },
-      {
-        text: "Converted ownership investor with shares for Android Inc. now held by Google LLC.",
         link: "",
       },
     ],
@@ -1100,20 +1098,12 @@ export const extraCurricular = [
   },
   {
     id: 8,
-    organisation: "2004 PUBLIC IPO GOOGLE LLC",
-    title: "Executive Investor through ANDROID, INC purchased by GOOGLE in 2005",
-    duration: "Sep 2018 - Present",
+    organisation: "GOOGLE LLC",
+    title: "USA Founder and Programmer",
+    duration: "Sep 1999 - Present",
     content: [
       {
         text: "2000: Google becomes the client search engine for Yahoo!, significantly increasing its user base.",
-        link: "https://about.google/",
-      },
-      {
-        text: "2004: Google goes public with an initial public offering (IPO) at $85 per share, raising nearly $2 billion.",
-        link: "https://about.google/",
-      },
-      {
-        text: "I became an Idea / Architecture Generator in 2005.  Contributed to Inventions therein-throughout as an Idea Generator.",
         link: "https://about.google/",
       },
     ],
