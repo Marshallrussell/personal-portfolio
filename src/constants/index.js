@@ -1149,7 +1149,7 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "mailto:marshallarussell@gmail.com",
+    link: "mailto:marshallrussell@hotmail.com",
   },
   {
     id: "social-media-4",
