@@ -5,6 +5,7 @@ import {
   gdsc,
   iris,
   ecell,
+  aguild,
   genesis,
   portfolio,
   placeicon,
@@ -1112,26 +1113,27 @@ export const extraCurricular = [
   },
   {
     id: 9,
-    organisation: "Marshall Fitzpatricks, ACTOR-CMU",
-    title: "Exclusive Director / Actor",
-    duration: "Sep 2018 - Present",
+    organisation: "Hearst Communications Inc.",
+    title: "Director / Actor / Synopsis Director",
+    duration: "Sep 2012 - Present",
     content: [
       {
-        text: "Organised the Hollywood Acts Intenting to Create",
-        link: "https://h007.weebly.com/",
+        text: "Hearst is one of the nation's largest global, diversified information, services and media companies",
+        link: "https://www.hearst.com/about",
       },
       {
-        text: "Briefing of Citizen Enlisted Careers and Space Corps Install Idea",
-        link: "https://payhip.com/b/ztfUM",
+        text: "Line204 : The one-stop shop for all your Film & Event needs",
+        link: "https://line204.com/",
       },
       {
-        text: "Creative Commons Licenses Invent Ideas Thoughts and Install Idea",
-        link: "https://payhip.com/b/EJvkU"
+        text: "204TEXAS : Excited to introduce a groundbreaking new Project the first ground-up, purpose-built studio lot in Texas.  ",
+        link: "https://line204.com/texas/"
       },
     ],
 //✅
-    logo: ecell,
+    logo: aguild,
   },
+
 ];
 
 // Links to your social media profiles

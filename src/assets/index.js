@@ -7,6 +7,7 @@ import nitk from "./fermilab.png";
 import cluboard from "./cluboard.png";
 import cash_flow from "./cash_flow.jpg";
 import ecell from "./github.png";
+import aguild from "./hearst.png";
 import gdsc from "./gdsc.png";
 import iris from "./upwork.png";
 import genesis from "./fiverr.jpg";
@@ -32,6 +33,7 @@ export {
   gdsc,
   iris,
   ecell,
+  aguild,
   genesis,
   portfolio,
   parthmittal,
