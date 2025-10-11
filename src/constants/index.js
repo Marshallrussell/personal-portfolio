@@ -1127,7 +1127,8 @@ export const extraCurricular = [
       },
       {
         text: "204TEXAS : Excited to introduce a groundbreaking new Project the first ground-up, purpose-built studio lot in Texas.  ",
-        link: "https://line204.com/texas/"
+        link: "https://www.bastropedc.org/media-center/news/p/item/52090/meet-alton-butler-and-bastrops-new-movie-studio",        
+//link: "https://line204.com/texas/",
       },
     ],
 //✅
