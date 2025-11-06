@@ -1113,6 +1113,76 @@ export const extraCurricular = [
   },
   {
     id: 9,
+    organisation: "Hearst: CONFIRMED",
+    title: "Would They Title These Synopsis Director",
+    duration: "Sep 2021, 2025, $ 2025 - 2031",
+    content: [
+      {
+        text: "2025 Alien Series (Alien Earth)",
+        link: "https://www.imdb.com/title/tt13623632/?ref_=fn_t_4",
+      },
+      {
+        text: "2021 Matrix Series Ressurections",
+        link: "https://www.imdb.com/title/tt10838180/?ref_=fn_t_1",
+      },
+      {
+        text: "2029 Matrix Series The Sight",
+        link: "https://www.imdb.com/news/ni64622523/",        
+//link: "https://line204.com/texas/",
+      },
+      {
+        text: "ScriptRevolution: The Sight",
+        link: "https://www.scriptrevolution.com/scripts/the-matrix-v-the-sight",        
+//link: "https://line204.com/texas/",
+      },
+    ],
+//✅
+    logo: aguild,
+  },
+  {
+    id: 10,
+    organisation: "Hearst: Title Credit Appears",
+    title: "Director / Actor / Synopsis Director",
+    duration: "Sep 2025 - 2031",
+    content: [
+      {
+        text: "Blade Trilogy (Underworld)",
+        link: "https://www.imdb.com/news/ni64555762/",
+      },
+      {
+        text: "Matrix Series (Antivirus - TV Series)",
+        link: "https://www.imdb.com/news/ni64622523/",
+      },
+      {
+        text: "Batman (Batman Justified)",
+        link: "https://www.imdb.com/title/tt19850008/",
+      },
+      {
+        text: "James Bond (One Half Qubit)",
+        link: "https://www.imdb.com/title/tt13152476/?ref_=fn_t_1",        
+//link: "https://line204.com/texas/",
+      },
+      {
+        text: "ScriptRevolution: Blade)",
+        link: "https://www.scriptrevolution.com/scripts/blade-4-underworld",        
+//link: "https://line204.com/texas/",
+      },
+      {
+        text: "ScriptRevolution: Batman)",
+        link: "https://www.scriptrevolution.com/scripts/batman-justified",        
+//link: "https://line204.com/texas/",
+      },
+      {
+        text: "ScriptRevolution: Bond)",
+        link: "https://www.scriptrevolution.com/scripts/james-bond-007-one-half-qubit",        
+//link: "https://line204.com/texas/",
+      },
+    ],
+//✅
+    logo: aguild,
+  },
+  {
+    id: 11,
     organisation: "Hearst Communications Inc.",
     title: "Director / Actor / Synopsis Director",
     duration: "Sep 2012 - Present",
@@ -1126,7 +1196,7 @@ export const extraCurricular = [
         link: "https://line204.com/",
       },
       {
-        text: "204TEXAS : Excited to introduce a groundbreaking new Project the first ground-up, purpose-built studio lot in Texas.  ",
+        text: "204TEXAS : Excited to introduce a groundbreaking new Project the first ground-up, purpose-built studio lot in Texas.",
         link: "https://www.bastropedc.org/media-center/news/p/item/52090/meet-alton-butler-and-bastrops-new-movie-studio",        
 //link: "https://line204.com/texas/",
       },
@@ -1134,9 +1204,30 @@ export const extraCurricular = [
 //✅
     logo: aguild,
   },
-
+  {
+    id: 12,
+    organisation: "Rocket Lab Corp & PRESIDENT USA CIA DHS OIG NYC",
+    title: "Director & Partner & Inspector General under Convention Actor",
+    duration: "Sep 2005, & 2010 - Present",
+    content: [
+      {
+        text: "Rocket Lab: End to End Space Company",
+        link: "https://rocketlabcorp.com/",
+      },
+      {
+        text: "AI Faster First Responder Gear (NYC: New York Urban Science and Technology Laboratory)",
+        link: "https://www.dhs.gov/science-and-technology/artificial-intelligence",
+      },
+      {
+        text: "Hallmark Film Series (10 Films: Holiday Films: Role for President / Law",
+        link: "https://www.hallmarkplus.com/page/01HYEGMR9J6ZQS1P33ZP8J3034",        
+//link: "https://line204.com/texas/",
+      },
+    ],
+//✅
+    logo: aguild,
+  },
 ];
-
 // Links to your social media profiles
 export const socialMedia = [
   {
