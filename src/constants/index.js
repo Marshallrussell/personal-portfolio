@@ -17,7 +17,8 @@ import {
   pba,
   ethglobal,
   ethforall,
-  ethindia
+  ethindia,
+  rocketlab
 } from "../assets";
 
 import {
@@ -1225,7 +1226,7 @@ export const extraCurricular = [
       },
     ],
 //✅
-    logo: aguild,
+    logo: rocketlab,
   },
 ];
 // Links to your social media profiles

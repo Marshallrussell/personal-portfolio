@@ -22,6 +22,7 @@ import pba from "./cmu.jpeg";
 import ethglobal from "./carnegie.png";
 import ethforall from "./ibm.png";
 import ethindia from "./epfl.png";
+import rocketlab from "./lab.png";
 
 export {
   menu,
@@ -47,5 +48,6 @@ export {
   pba,
   ethglobal,
   ethforall,
-  ethindia
+  ethindia,
+  rocketlab
 };
