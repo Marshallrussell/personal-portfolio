@@ -1114,35 +1114,48 @@ export const extraCurricular = [
   },
   {
     id: 9,
-    organisation: "Hearst: CONFIRMED",
-    title: "Would They Title These Synopsis Director",
-    duration: "Sep 2021, 2025, $ 2025 - 2031",
+    organisation: "Rocket Lab Corp & USA CIA DHS OIG NYC",
+    title: "Director & Convention Actor",
+    duration: "Sep 2005, & 2010 - Present",
     content: [
       {
-        text: "2025 Alien Series (Alien Earth)",
-        link: "https://www.imdb.com/title/tt13623632/?ref_=fn_t_4",
+        text: "Rocket Lab: End to End Space Company",
+        link: "https://rocketlabcorp.com/",
       },
       {
-        text: "2021 Matrix Series Ressurections",
-        link: "https://www.imdb.com/title/tt10838180/?ref_=fn_t_1",
+        text: "AI Faster First Responder Gear (New York Urban Science & Technology Laboratory)",
+        link: "https://www.dhs.gov/science-and-technology/artificial-intelligence",
+      },
+    ],
+//✅
+    logo: rocketlab,
+  },
+  {
+    id: 10,
+    organisation: "Hearst",
+    title: "Director / Actor / Synopsis Director",
+    duration: "Sep 2012 - Present",
+    content: [
+      {
+        text: "Hearst is one of the nation's largest global, diversified information, services and media companies",
+        link: "https://www.hearst.com/about",
       },
       {
-        text: "2029 Matrix Series The Sight",
-        link: "https://www.imdb.com/news/ni64622523/",        
-//link: "https://line204.com/texas/",
+        text: "Line204 : The one-stop shop for all your Film & Event needs",
+        link: "https://line204.com/",
       },
       {
-        text: "ScriptRevolution: The Sight",
-        link: "https://www.scriptrevolution.com/scripts/the-matrix-v-the-sight",        
+        text: "204TEXAS : Excited to introduce a groundbreaking new Project the first ground-up, purpose-built studio lot in Texas.",
+        link: "https://www.bastropedc.org/media-center/news/p/item/52090/meet-alton-butler-and-bastrops-new-movie-studio",        
 //link: "https://line204.com/texas/",
       },
     ],
 //✅
     logo: aguild,
   },
-  {
-    id: 10,
-    organisation: "Hearst: Title Credit Appears",
+{
+    id: 11,
+    organisation: "Title Credit Appears",
     title: "Director / Actor / Synopsis Director",
     duration: "Sep 2025 - 2031",
     content: [
@@ -1183,50 +1196,32 @@ export const extraCurricular = [
     logo: aguild,
   },
   {
-    id: 11,
-    organisation: "Hearst Communications Inc.",
-    title: "Director / Actor / Synopsis Director",
-    duration: "Sep 2012 - Present",
+    id: 12,
+    organisation: "CONFIRMED",
+    title: "Would They Title These Synopsis Director",
+    duration: "Sep 2021, 2025, $ 2025 - 2031",
     content: [
       {
-        text: "Hearst is one of the nation's largest global, diversified information, services and media companies",
-        link: "https://www.hearst.com/about",
+        text: "2025 Alien Series (Alien Earth)",
+        link: "https://www.imdb.com/title/tt13623632/?ref_=fn_t_4",
       },
       {
-        text: "Line204 : The one-stop shop for all your Film & Event needs",
-        link: "https://line204.com/",
+        text: "2021 Matrix Series Ressurections",
+        link: "https://www.imdb.com/title/tt10838180/?ref_=fn_t_1",
       },
       {
-        text: "204TEXAS : Excited to introduce a groundbreaking new Project the first ground-up, purpose-built studio lot in Texas.",
-        link: "https://www.bastropedc.org/media-center/news/p/item/52090/meet-alton-butler-and-bastrops-new-movie-studio",        
+        text: "2029 Matrix Series The Sight",
+        link: "https://www.imdb.com/news/ni64622523/",        
+//link: "https://line204.com/texas/",
+      },
+      {
+        text: "ScriptRevolution: The Sight",
+        link: "https://www.scriptrevolution.com/scripts/the-matrix-v-the-sight",        
 //link: "https://line204.com/texas/",
       },
     ],
 //✅
     logo: aguild,
-  },
-  {
-    id: 12,
-    organisation: "Rocket Lab Corp & PRESIDENT USA CIA DHS OIG NYC",
-    title: "Director & Partner & Inspector General under Convention Actor",
-    duration: "Sep 2005, & 2010 - Present",
-    content: [
-      {
-        text: "Rocket Lab: End to End Space Company",
-        link: "https://rocketlabcorp.com/",
-      },
-      {
-        text: "AI Faster First Responder Gear (NYC: New York Urban Science and Technology Laboratory)",
-        link: "https://www.dhs.gov/science-and-technology/artificial-intelligence",
-      },
-      {
-        text: "Hallmark Film Series (10 Films: Holiday Films: Role for President / Law",
-        link: "https://www.hallmarkplus.com/page/01HYEGMR9J6ZQS1P33ZP8J3034",        
-//link: "https://line204.com/texas/",
-      },
-    ],
-//✅
-    logo: rocketlab,
   },
 ];
 // Links to your social media profiles
