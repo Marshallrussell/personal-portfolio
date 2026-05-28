@@ -1178,12 +1178,12 @@ export const extraCurricular = [
       },
       {
         text: "ScriptRevolution: Blade)",
-        link: "https://www.scriptrevolution.com/scripts/blade-4-underworld",        
+        link: "https://www.scriptrevolution.com/scripts/blade-4",        
 //link: "https://line204.com/texas/",
       },
       {
         text: "ScriptRevolution: Batman)",
-        link: "https://www.scriptrevolution.com/scripts/batman-justified",        
+        link: "https://www.scriptrevolution.com/scripts/battleman-generation-w",        
 //link: "https://line204.com/texas/",
       },
       {
@@ -1215,8 +1215,13 @@ export const extraCurricular = [
 //link: "https://line204.com/texas/",
       },
       {
-        text: "ScriptRevolution: The Sight",
-        link: "https://www.scriptrevolution.com/scripts/the-matrix-v-the-sight",        
+        text: "ScriptRevolution: Matrix Cyclical",
+        link: "https://www.scriptrevolution.com/scripts/matrix-v-cyclical",        
+//link: "https://line204.com/texas/",
+      },
+      {
+        text: "ScriptRevolution: XMEN The Runner",
+        link: "https://www.scriptrevolution.com/scripts/xmen-the-runner",        
 //link: "https://line204.com/texas/",
       },
     ],
